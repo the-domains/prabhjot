@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[prabhjot]]></title>
         <description><![CDATA[prabhjot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prabhjot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 13:39:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Dec 2015 13:39:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prabhjot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[excited about the Grid]]></title>
             <description><![CDATA[<article><h1>excited about the Grid</h1><p>Doing the new thing in town!  Excited about the Grid.  Hoping it works like they say it will!</p></article>]]></description>
-            <link>undefinedexcited-about-the-grid/index.html</link>
+            <link>https://thegrid.ai/prabhjot/excited-about-the-grid/index.html</link>
             <guid isPermaLink="false">b7c89b6f-e96b-4e36-818c-c254883dd4ae</guid>
             <pubDate>Fri, 11 Dec 2015 13:38:51 GMT</pubDate>
         </item>
