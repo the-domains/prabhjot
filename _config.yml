@@ -1,0 +1,28 @@
+name: prabhjot
+favicon: null
+layout_spectrum: 0.048533821012824774
+typography_spectrum: 0.8389933686703444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8642301922664046
+  lightness: 0.2592901522293687
+  saturation: 0.015876706456765532
+  rhythmicContrast: 0.04911763942800462
+purpose: []
